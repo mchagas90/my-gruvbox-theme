@@ -1,0 +1,21 @@
+{
+  "name": "my-gruvbox",
+  "displayName": "my-gruvbox",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "my-gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my-gruvbox-color-theme.json"
+      }
+    ]
+  }
+}
