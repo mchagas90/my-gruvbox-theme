@@ -7,8 +7,8 @@ INSTALL_DIR="${VSCODE_EXTENSION_DIR}/${PROJECT_NAME}"
 
 ln -s "$PROJECT_DIR" "$INSTALL_DIR"
 
-echo "Link criado com sucesso."
-echo "Projeto:                     $PROJECT_DIR"
-echo "Link simbolico criado em:    $INSTALL_DIR"
+echo "Link created successfully."
+echo "Project:                     $PROJECT_DIR"
+echo "Symbolic link created at:     $INSTALL_DIR"
 echo
-echo "Agora reinicie o VS Code para ele reconhecer o tema."
+echo "Restart VS Code for the changes to take effect."
