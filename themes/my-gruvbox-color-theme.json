@@ -92,7 +92,7 @@
     "extensionButton.prominentHoverBackground": "#b8bb2630",
     "focusBorder": "#3c3836",
     "foreground": "#ebdbb2",
-    "input.background": "#ebdbb205",
+    "input.background": "#32302f"
     "input.border": "#3c3836",
     "input.foreground": "#ebdbb2",
     "input.placeholderForeground": "#ebdbb260",
